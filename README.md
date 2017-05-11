@@ -11,6 +11,7 @@ Brian L Blanchette Jr;
 
 <ul>I will build this website in this order
 
+
 <li> I will first set up two pages, one HTML, one CSS. </li>
 <li> Then I will fill the HTML page with content, like this </li>
 <li> Lastly, I will style the content with CSS and commit it to the GitHub Repository </li>
