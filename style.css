@@ -43,7 +43,7 @@ hr {
 
 header {
   background-color: #999;
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/27/OregonCoastEcola.jpg);
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/27/OregonCoastEcola.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   -webkit-background-size: cover;
