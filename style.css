@@ -43,7 +43,7 @@ hr {
 
 header {
   background-color: #999;
-  background-image: url ("https://visionarywild.com/wp/wp-content/uploads/2012/06/Bandon_Panorama2.jpg");
+  background-image: url(https://visionarywild.com/wp/wp-content/uploads/2012/06/Bandon_Panorama2.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   -webkit-background-size: cover;
