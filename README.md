@@ -1,6 +1,5 @@
 # Tensorflow Image Classifier
-
-This is the code for 'Image Classifier in TensorFlow in 5 Min on [YouTube](https://youtu.be/QfNvhPx5Px8). Use this [CodeLab](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0) by Google as a guide. Also this [tutorial](https://www.tensorflow.org/versions/r0.9/how_tos/image_retraining/index.html) is quite helpful.
+The goal of this assignement is to build a functioning image classifier using Google's Inception framework on Tensorflow. 
 
 ## Requirements
 
@@ -55,7 +54,7 @@ Make your own classifier for scientists, then post a clone of this repo with you
 
 # Credits
 
-Credit goes to [Xblaster](https://github.com/xblaster) for the majority of this code. I've merely created a wrapper. 
+Credit goes to [Xblaster](https://github.com/xblaster) for the a large portion of this code.  
 
 
 
